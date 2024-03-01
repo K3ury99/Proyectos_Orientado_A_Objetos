@@ -11,11 +11,6 @@
         Person person6 = new Person("Isabella", "gonzales", 32, false, "56789012");
         Person person7 = new Person("Luis", "Martinez", 38, true, "67890123");
 
-
-
-
-        
-
         // Calling different actions for each person
         person1.ProfessionAction1();
         person2.ProfessionAction2();

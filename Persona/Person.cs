@@ -1,4 +1,4 @@
-// 1. Class Persona
+// 1. Class Person
 public class Person
 {
     public string FirstName { get; set; }
