@@ -13,3 +13,18 @@ C:\dev\Proyectos_Orientado_A_Objetos\Persona\obj\Debug\net8.0\refint\Persona.dll
 C:\dev\Proyectos_Orientado_A_Objetos\Persona\obj\Debug\net8.0\Persona.pdb
 C:\dev\Proyectos_Orientado_A_Objetos\Persona\obj\Debug\net8.0\Persona.genruntimeconfig.cache
 C:\dev\Proyectos_Orientado_A_Objetos\Persona\obj\Debug\net8.0\ref\Persona.dll
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\persona\bin\Debug\net8.0\Persona.exe
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\persona\bin\Debug\net8.0\Persona.deps.json
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\persona\bin\Debug\net8.0\Persona.runtimeconfig.json
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\persona\bin\Debug\net8.0\Persona.dll
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\persona\bin\Debug\net8.0\Persona.pdb
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\persona\obj\Debug\net8.0\Persona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\persona\obj\Debug\net8.0\Persona.AssemblyInfoInputs.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\persona\obj\Debug\net8.0\Persona.AssemblyInfo.cs
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\persona\obj\Debug\net8.0\Persona.csproj.CoreCompileInputs.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\persona\obj\Debug\net8.0\Persona.sourcelink.json
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\persona\obj\Debug\net8.0\Persona.dll
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\persona\obj\Debug\net8.0\refint\Persona.dll
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\persona\obj\Debug\net8.0\Persona.pdb
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\persona\obj\Debug\net8.0\Persona.genruntimeconfig.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\persona\obj\Debug\net8.0\ref\Persona.dll

@@ -1,0 +1,15 @@
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Contactos\obj\Debug\net8.0\Contactos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Contactos\obj\Debug\net8.0\Contactos.AssemblyInfoInputs.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Contactos\obj\Debug\net8.0\Contactos.AssemblyInfo.cs
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Contactos\obj\Debug\net8.0\Contactos.csproj.CoreCompileInputs.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Contactos\obj\Debug\net8.0\Contactos.sourcelink.json
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Contactos\bin\Debug\net8.0\Contactos.exe
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Contactos\bin\Debug\net8.0\Contactos.deps.json
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Contactos\bin\Debug\net8.0\Contactos.runtimeconfig.json
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Contactos\bin\Debug\net8.0\Contactos.dll
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Contactos\bin\Debug\net8.0\Contactos.pdb
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Contactos\obj\Debug\net8.0\Contactos.dll
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Contactos\obj\Debug\net8.0\refint\Contactos.dll
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Contactos\obj\Debug\net8.0\Contactos.pdb
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Contactos\obj\Debug\net8.0\Contactos.genruntimeconfig.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Contactos\obj\Debug\net8.0\ref\Contactos.dll

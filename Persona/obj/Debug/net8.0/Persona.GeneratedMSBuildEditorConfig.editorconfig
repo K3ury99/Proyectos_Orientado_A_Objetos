@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Persona
-build_property.ProjectDir = C:\dev\Proyectos_Orientado_A_Objetos\Persona\
+build_property.ProjectDir = C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Persona\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

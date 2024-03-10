@@ -1,0 +1,15 @@
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Cuentas\bin\Debug\net8.0\Cuentas.exe
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Cuentas\bin\Debug\net8.0\Cuentas.deps.json
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Cuentas\bin\Debug\net8.0\Cuentas.runtimeconfig.json
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Cuentas\bin\Debug\net8.0\Cuentas.dll
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Cuentas\bin\Debug\net8.0\Cuentas.pdb
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Cuentas\obj\Debug\net8.0\Cuentas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Cuentas\obj\Debug\net8.0\Cuentas.AssemblyInfoInputs.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Cuentas\obj\Debug\net8.0\Cuentas.AssemblyInfo.cs
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Cuentas\obj\Debug\net8.0\Cuentas.csproj.CoreCompileInputs.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Cuentas\obj\Debug\net8.0\Cuentas.sourcelink.json
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Cuentas\obj\Debug\net8.0\Cuentas.dll
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Cuentas\obj\Debug\net8.0\refint\Cuentas.dll
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Cuentas\obj\Debug\net8.0\Cuentas.pdb
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Cuentas\obj\Debug\net8.0\Cuentas.genruntimeconfig.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Cuentas\obj\Debug\net8.0\ref\Cuentas.dll
