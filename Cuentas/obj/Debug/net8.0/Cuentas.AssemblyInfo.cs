@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cuentas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+140fcfe4d4e4938a1390493239aaaf5b609d01b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b50ceb6c890c3cae7c538918219b6db60dbd038d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cuentas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cuentas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
