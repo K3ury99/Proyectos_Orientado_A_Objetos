@@ -3,27 +3,22 @@ namespace Cuentas.Cuentas
     public class Cuenta
     {
 
-        // parametros de la clase cuenta (datos que debe tener la clase "Cuenta")
+        // atributos de la clase cuenta (datos que debe tener la clase "Cuenta")
         public double Saldo { get; set; }
+        public string Propietario { get; set; }
 
         //Constructor por defecto
         public Cuenta()
         {
             this.Saldo = 0.0;
+            this.Propietario = "Sin propietario";
         }
 
         //Constructor con parametros
-        public Cuenta(double Saldo)
+        public Cuenta(double Saldo, string Propietario)
         {
             this.Saldo = Saldo;
-        }
-
-
-
-        // Metodo: Consultar Saldo
-        public double Consultar_saldo()
-        {
-            return Saldo;
+            this.Propietario = Propietario;
         }
 
         // Metodo: Ingreso
@@ -50,7 +45,7 @@ namespace Cuentas.Cuentas
             else
             {
                 Saldo -= cantidad;
-                Console.WriteLine("\nMonto retirado correctamente.");
+                Console.WriteLine($"\nMonto retirado correctamente. Nuevo saldo {Saldo}");
             }  
         }
 
@@ -69,7 +64,7 @@ namespace Cuentas.Cuentas
         }
 
         // Metodo: Transferencia
-        public void Transferencia(double cantidad)
+        public void Transferencia(double cantidad, string propietario)
         {
         if (cantidad > Saldo)
         {
@@ -78,7 +73,8 @@ namespace Cuentas.Cuentas
         else
         {
             Saldo -= cantidad;
-            Console.WriteLine($"Transferencia de {cantidad} realizada. Nuevo saldo: {Saldo}");
+            Propietario = propietario;
+            Console.WriteLine($"\nTransferencia de {cantidad} realizada a {Propietario}. Nuevo saldo: {Saldo}");
         }
         }
 

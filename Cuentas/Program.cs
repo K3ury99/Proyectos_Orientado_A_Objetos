@@ -2,7 +2,7 @@
 {
     class Program
     {
-        public Cuenta cuenta1 = new Cuenta();
+        public static Cuenta cuenta1 = new Cuenta(); //Una variable estatica para que cuando inicie el programa nuevamente no se actualice el saldo.
         static void Main(string[] args)
         {
             Console.Clear();
@@ -29,7 +29,6 @@
                     case 0:
                         return;
                     case 1:
-                        cuenta1.Consultar_saldo();
                         Console.WriteLine("\nSu saldo actual es: " + cuenta1.Saldo);
                         break;
                     case 2:
@@ -50,7 +49,11 @@
                     case 5:
                         Console.Write("Ingrese la cantidad que desea transferir: ");
                         double transferido = Convert.ToDouble(Console.ReadLine());
-                        cuenta1.Transferencia(transferido);
+
+                        Console.Write("Ingrese el nombre del propietario de la cuenta: ");
+                        string propietario = Convert.ToString(Console.ReadLine());
+
+                        cuenta1.Transferencia(transferido,propietario);
                         break;
                     default:
                         Console.WriteLine("Opción no válida...");
