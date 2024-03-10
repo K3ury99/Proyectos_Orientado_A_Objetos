@@ -1,0 +1,15 @@
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Libros\obj\Debug\net8.0\Libros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Libros\obj\Debug\net8.0\Libros.AssemblyInfoInputs.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Libros\obj\Debug\net8.0\Libros.AssemblyInfo.cs
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Libros\obj\Debug\net8.0\Libros.csproj.CoreCompileInputs.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Libros\obj\Debug\net8.0\Libros.sourcelink.json
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Libros\bin\Debug\net8.0\Libros.exe
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Libros\bin\Debug\net8.0\Libros.deps.json
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Libros\bin\Debug\net8.0\Libros.runtimeconfig.json
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Libros\bin\Debug\net8.0\Libros.dll
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Libros\bin\Debug\net8.0\Libros.pdb
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Libros\obj\Debug\net8.0\Libros.dll
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Libros\obj\Debug\net8.0\refint\Libros.dll
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Libros\obj\Debug\net8.0\Libros.pdb
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Libros\obj\Debug\net8.0\Libros.genruntimeconfig.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Libros\obj\Debug\net8.0\ref\Libros.dll
