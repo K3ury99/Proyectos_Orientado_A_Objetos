@@ -1,0 +1,15 @@
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Fracciones\bin\Debug\net8.0\Fracciones.exe
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Fracciones\bin\Debug\net8.0\Fracciones.deps.json
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Fracciones\bin\Debug\net8.0\Fracciones.runtimeconfig.json
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Fracciones\bin\Debug\net8.0\Fracciones.dll
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Fracciones\bin\Debug\net8.0\Fracciones.pdb
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Fracciones\obj\Debug\net8.0\Fracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Fracciones\obj\Debug\net8.0\Fracciones.AssemblyInfoInputs.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Fracciones\obj\Debug\net8.0\Fracciones.AssemblyInfo.cs
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Fracciones\obj\Debug\net8.0\Fracciones.csproj.CoreCompileInputs.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Fracciones\obj\Debug\net8.0\Fracciones.sourcelink.json
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Fracciones\obj\Debug\net8.0\Fracciones.dll
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Fracciones\obj\Debug\net8.0\refint\Fracciones.dll
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Fracciones\obj\Debug\net8.0\Fracciones.pdb
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Fracciones\obj\Debug\net8.0\Fracciones.genruntimeconfig.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos-Orientado a objetos-En C#\Fracciones\obj\Debug\net8.0\ref\Fracciones.dll
