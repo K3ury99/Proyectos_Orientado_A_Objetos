@@ -9,13 +9,13 @@
             {
                 Console.Clear();
                 Console.WriteLine("""
-                Bienvenido a su Libreria.
+                Bienvenido a su Librería.
                 
-                ¿Que desea hacer?
+                ¿Qué desea hacer?
 
                 0) Salir del programa.
                 1) Agregar un nuevo libro.
-                2) Consultar informacion de un libro.
+                2) Consultar información de un libro.
                 3) Listar todos los libros.
                 4) Prestar un libro.
                 5) Devolver un libro.
@@ -52,16 +52,17 @@
                     case 4:
                         Console.Write("Ingrese el nombre del libro a prestar: ");
                         string nombrePrestamo = Console.ReadLine();
-                        Console.Write("Ingrese la cantidad a prestar: ");
-                        int cantidadPrestamo = Convert.ToInt32(Console.ReadLine());
-                        Libro.Prestar_Libro(listaLibros, nombrePrestamo, cantidadPrestamo);
+
+                        Console.Write("Ingrese el nombre de la persona a prestar: ");
+                        string propietarioPrestamo = Console.ReadLine();
+                        Libro.Prestar_Libro(listaLibros, nombrePrestamo, propietarioPrestamo);
                         break;
                     case 5:
                         Console.Write("Ingrese el nombre del libro a devolver: ");
                         string nombreDevolucion = Console.ReadLine();
-                        Console.Write("Ingrese la cantidad a devolver: ");
-                        int cantidadDevolucion = Convert.ToInt32(Console.ReadLine());
-                        Libro.Devolver_Libro(listaLibros, nombreDevolucion, cantidadDevolucion);
+                        Console.Write("Ingrese el nombre de la persona a devolver: ");
+                        string libroDevolucion = Console.ReadLine();
+                        Libro.Devolver_Libro(listaLibros, libroDevolucion, nombreDevolucion);
                         break;
                     case 6:
                         Console.Write("Ingrese el nombre del libro a eliminar: ");
@@ -69,18 +70,19 @@
                         Libro.Eliminar_Libro(listaLibros, nombreEliminar);
                         break;
                     default:
-                        Console.WriteLine("Introduzca una opcion valida.");
+                        Console.WriteLine("Introduzca una opción válida.");
                         break;
                 }
-            // Para volver a empezar
-            Console.Write("\n---¿Desea realizar otra operacion? (s/n): ");
-            string continueOption = Console.ReadLine().ToLower();
 
-            if (continueOption != "s")
-            {
-                Console.WriteLine("---Saliendo del Programa");
-                break;
-            }
+                // Para volver a empezar
+                Console.Write("\n---¿Desea realizar otra operación? (s/n): ");
+                string continueOption = Console.ReadLine().ToLower();
+
+                if (continueOption != "s")
+                {
+                    Console.WriteLine("---Saliendo del Programa");
+                    break;
+                }
             }
         }
     }
