@@ -58,9 +58,9 @@
                         Libro.Prestar_Libro(listaLibros, nombrePrestamo, propietarioPrestamo);
                         break;
                     case 5:
-                        Console.Write("Ingrese el nombre del libro a devolver: ");
+                        Console.Write("Ingrese el nombre de la persona que va a devolver el libro: ");
                         string nombreDevolucion = Console.ReadLine();
-                        Console.Write("Ingrese el nombre de la persona a devolver: ");
+                        Console.Write("Ingrese el nombre del libro a devolver: ");
                         string libroDevolucion = Console.ReadLine();
                         Libro.Devolver_Libro(listaLibros, libroDevolucion, nombreDevolucion);
                         break;

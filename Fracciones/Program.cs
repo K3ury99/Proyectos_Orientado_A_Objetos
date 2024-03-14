@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.Clear();
+            
             Fraccion fraccion1 = new Fraccion(2, 3);
             Fraccion fraccion2 = new Fraccion(1, 4);
 
