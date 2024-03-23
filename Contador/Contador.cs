@@ -2,7 +2,7 @@ namespace Contador.Contador
 {
     public class Contador
     {
-        // atributos de la clase contador
+        // atributos de la clase contador 
         public double Valor { get; set; }
 
         // Constructor por defecto
