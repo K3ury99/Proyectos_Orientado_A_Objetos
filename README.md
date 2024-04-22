@@ -17,9 +17,4 @@ This is an object-oriented C# project store to cover a specific need depending o
 <img src="https://github.com/K3ury99/Proyectos_Orientado_A_Objetos/assets/128008789/6c736154-0c99-4df8-9290-2db070875a63" width="60%"></img>
 
 ## Proyect: People Manager.
-<img src="" width="60%"></img>
-
-
-
-
-
+<img src="https://github.com/K3ury99/Proyectos_Orientado_A_Objetos/assets/128008789/01ed5116-ff08-4ad7-9f5a-b0e2b68e5ef4" width="60%"></img>
