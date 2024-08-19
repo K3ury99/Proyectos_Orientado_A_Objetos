@@ -22,3 +22,5 @@ This project assigns a random position via console to each person
 <br>
 <img src="https://github.com/K3ury99/Proyectos_Orientado_A_Objetos/assets/128008789/01ed5116-ff08-4ad7-9f5a-b0e2b68e5ef4" width="60%"></img>
 
+> [!TIP]
+If you download the project you will be able to navigate between all the folders to try them for yourself every 1
